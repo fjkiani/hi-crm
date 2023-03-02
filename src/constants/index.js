@@ -37,9 +37,9 @@ export const features = [
   {
     id: "feature-3",
     icon: star,
-    title: "Create better resident experience",
+    title: "Extract data across all your data sources",
     content:
-      ".",
+      "Powered to easily connect to your database including PostgreSQL and Snowflake ",
   },
 ];
 
