@@ -5,7 +5,7 @@ const Clients = () => (
   
   <section className={`${styles.flexCenter} my-4`}>
       <h2 className={styles.heading2}>
-        Our Clients <br className="sm:block hidden" /> 
+        Securely Hosted<br className="sm:block hidden" /> 
       </h2>
     <div className={`${styles.flexCenter} flex-wrap w-full`}>
       {clients.map((client) => (

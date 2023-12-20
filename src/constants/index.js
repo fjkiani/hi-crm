@@ -23,23 +23,30 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Analyze data in real time",
+    title: "Data Training",
     content:
-      "Get a full 360 view into your property including occupancy, vacancy, leads and payments for better forecasting ",
+      " Our AI models are trained on vast datasets of medical images, learning to identify various health conditions.",
   },
   {
     id: "feature-2",
     icon: star,
-    title: "Grow your revenue",
+    title: "X-Ray Analysis",
     content:
-      "Improve pipelines across your property managers and reps by capturing inquiries from multiple channels  ",
+      "When healthcare providers upload medical images, our AI rapidly analyzes them, using advanced algorithms to detect and highlight key features.",
   },
   {
     id: "feature-3",
     icon: star,
-    title: "Extract data across all your data sources",
+    title: "Diagnostic Support",
     content:
-      "Powered to easily connect to your database including PostgreSQL and Snowflake ",
+      "The AI provides diagnostic suggestions, acting as a second, highly trained eye to assist radiologists",
+  },
+  {
+    id: "feature-4",
+    icon: star,
+    title: "Continuous Learning",
+    content:
+      "Continually improve, adapting to new data and findings in medical research. ",
   },
 ];
 
@@ -73,18 +80,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Enhanced Customer Experience",
-    value: "86%+",
+    title: "accurate",
+    value: "85%+",
   },
   {
     id: "stats-2",
-    title: "Team Collaboration",
-    value: "56%+",
+    title: "results in seconds",
+    value: "1000+",
   },
   {
     id: "stats-3",
-    title: "ROI Increase Potential",
-    value: "245%+",
+    title: "Servers to manage",
+    value: "0",
   },
 ];
 

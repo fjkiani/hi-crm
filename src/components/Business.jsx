@@ -22,10 +22,10 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        API Driven Architecture <br className="sm:block hidden" /> 
+         Computer Vision AI for Radiologists <br className="sm:block hidden" /> 
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Build a connected ecosystem to manage properties, sales, occupancy, leasing and payments all in a one-stop-shop   
+      Utilize Machine Learning to instantly detect results from x-rays and seamlessly create a data lineage of patients to build better analytics, provide better healthcare and see more patients
       </p>
 
       <Button styles={`mt-10`} />

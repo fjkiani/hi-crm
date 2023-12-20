@@ -9,26 +9,26 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white"> Increase your teams productivity by 26%+ </span> {" "}
+            <span className="text-white">MedicalAI.world </span> {" "}
             {/* <span className="text-white">in </span> sales */}
           </p>
         </div>
 
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            API Driven  <br className="sm:block hidden" />{" "}
-            <span className="text-gradient">CRM</span>{" "}
+          Medical Diagnostics with AI <br className="sm:block hidden" />{" "}
+            {/* <span className="text-gradient">Across medical imaging</span>{" "} */}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
             <GetStarted />
           </div>
         </div>
 
-        <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-         Empowering Property Management 
-        </h1>
+        {/* <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
+        For 
+        </h1> */}
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        A single source solution to grow revenue success by extracting all your data sources into one 
+       Serverless API to instantly detect results from x-rays
         </p>
       </div>
 
