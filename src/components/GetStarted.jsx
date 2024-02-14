@@ -8,7 +8,7 @@ const GetStarted = () => (
         <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
           <span className="text-gradient">Get</span>
         </p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3El4yrhoOB3rz4RzgDfaDHdNrU0qpb6ao5Z8vRTX0gTf96w/viewform" target="_blank" rel="noreferrer">
+        <a href="https://www.fahadkiani.com/" target="_blank" rel="noreferrer">
 
         <img src={arrowUp} alt="arrow-up" className="w-[23px] h-[23px] object-contain" />
         </a>
