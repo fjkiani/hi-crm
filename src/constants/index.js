@@ -54,43 +54,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-<<<<<<< HEAD
       "AI won't replace doctors, but doctors who use AI will replace doctors who do not",
     name: "Herman Jensen",
     title: "MD ",
-=======
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
->>>>>>> origin/main
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-<<<<<<< HEAD
       "AI technology may also help primary care physicians care for patients without needing the assistance of specialists. It will free up specialist time to focus on the more complex cases rather than the ones that could be answered through a few questions",
     name: "Steve Mark",
     title: "Chief Radiologist",
-=======
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
->>>>>>> origin/main
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-<<<<<<< HEAD
       "Artificial intelligence has the potential to revolutionize medicine and improve the detection, diagnosis and treatment of breast cancer. Some of the potential consequences of using AI in medicine include early detection. AI can help detect breast cancer at its earliest stages, which would increase survival rates and improve treatment outcomes.",
     name: "Kenn Gallagher",
     title: "Resident",
-=======
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
->>>>>>> origin/main
     img: people03,
   },
 ];
@@ -219,12 +201,8 @@ export const clients = [
   //   id: "client-4",
   //   logo: dropbox,
   // },
-<<<<<<< HEAD
 ];
 
 
 
 
-=======
-];
->>>>>>> origin/main
