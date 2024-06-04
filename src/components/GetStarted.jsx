@@ -8,11 +8,7 @@ const GetStarted = () => (
         <p className="font-poppins font-medium text-[18px] leading-[23.4px]">
           <span className="text-gradient">Get</span>
         </p>
-<<<<<<< HEAD
-        <a href="https://www.fahadkiani.com/contact" target="_blank" rel="noreferrer">
-=======
         <a href="https://www.fahadkiani.com/" target="_blank" rel="noreferrer">
->>>>>>> origin/main
 
         <img src={arrowUp} alt="arrow-up" className="w-[23px] h-[23px] object-contain" />
         </a>
